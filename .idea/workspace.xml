@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72edf97f-55c7-41a3-97da-3d057823f295" name="Default Changelist" comment="" />
+    <list default="true" id="72edf97f-55c7-41a3-97da-3d057823f295" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/controllers/AppointmentController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/controllers/AppointmentController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -22,6 +32,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1Q7SRw6xcGR07Jo58HqMQMUmiml" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
@@ -111,10 +122,30 @@
       <workItem from="1567561532590" duration="613000" />
       <workItem from="1567562928773" duration="1224000" />
       <workItem from="1567602533540" duration="38000" />
+      <workItem from="1567968627778" duration="1000" />
+      <workItem from="1568030627453" duration="599000" />
+      <workItem from="1568044028757" duration="42000" />
+      <workItem from="1568044987390" duration="242000" />
+      <workItem from="1568120904891" duration="3574000" />
+      <workItem from="1568126253456" duration="281000" />
+      <workItem from="1568166553029" duration="4650000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
